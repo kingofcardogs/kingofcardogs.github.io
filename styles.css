@@ -1,0 +1,38 @@
+html  {
+    margin: auto;
+    height: 100%;
+    background-color: black;
+}
+
+body {
+    padding: 10px;    
+    margin: 0;
+    background-image:url(Images/BMW.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+}
+h1, h2, h3, h4 {
+    max-width: 1200;    
+}
+#header {
+    max-width: 1200;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+#page {
+    display: block;
+    max-width: 1200px;
+    margin: auto;
+    padding: 30px;
+    background-color: white  
+}
+
+#bio {
+    line-height: 1.6;
+}
